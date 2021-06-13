@@ -17,9 +17,14 @@
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"    alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
 </a>
 
-<a href="https://www.linkedin.com/in/faysal-khan-47aa8710a/" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-in-alt.svg"    alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
+<a href="https://www.facebook.com/mdfaysal.khan.71/" target="blank">
+ <img align="center" src="https://i.ibb.co/8Dzh6q9/facebook.png" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
 </a>
+
+<a href="https://join.skype.com/invite/wPnSSrRpttZH" target="blank">
+ <img align="center" src="https://i.ibb.co/PTFct1L/skype.png" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
+</a>
+
 
 
 
