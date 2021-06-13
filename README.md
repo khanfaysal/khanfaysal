@@ -37,19 +37,21 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Dedar Alam</h1>
+<h1 align="center">Hi 👋, I'm Faysal Khan Alam</h1>
 <h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p>
 
-- 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis)
+- 🔭 I’m currently working on [tailwind ](https://tailwindcss.com/)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Advanced React core**
 
-- 📫 How to reach me **dedar@eclipso.it**
+- 📫 How to reach me **mdfaysalkhancse@gmail.com**
 
-#### 💻 Stack I Work With
+#### 💻 Stack I Work With this technology
 
 <p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
