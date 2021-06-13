@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&locale=en" alt="khanfaysal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&" alt="khanfaysal" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&" alt="khanfaysal" /></p> -->
 
 
 
@@ -79,7 +79,7 @@
 </p>
 
  
- #### ⭐  Statistics and Languages
+  ⭐  Statistics and Languages
 
  <!-- <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=devded&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
