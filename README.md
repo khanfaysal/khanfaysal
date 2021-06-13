@@ -13,10 +13,9 @@
 
 
 <h3>Social Link:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faysal-khan-47aa8710a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="10" width="10" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/faysal-khan-47aa8710a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" /></a>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfaysal&theme=blue-green" /></p><br>
 
 #### 💻 Stack I Work With this technology 
 
@@ -51,6 +50,7 @@
 
     
 <!--  ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg)  -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfaysal&theme=blue-green" /></p><br> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&" alt="khanfaysal" /></p> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&locale=en" alt="khanfaysal" /></p> -->
 <!-- - 💬 Ask me about **React, bootstrap, material UI,** -->
