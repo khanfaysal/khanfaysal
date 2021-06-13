@@ -62,8 +62,11 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+
  
- 
+
  
  
  
@@ -84,8 +87,8 @@
  </p> -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devded&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&theme=tokyonight" />
 </p>
 
 <!--
