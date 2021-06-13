@@ -48,7 +48,8 @@
 
 - 📫 How to reach me **mdfaysalkhancse@gmail.com**
 
-### 💻 Stack I Work With this technology 
+
+#### 💻 Stack I Work With this technology 
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
@@ -70,7 +71,7 @@
 </p>
 
  
-  ### ⭐  Statistics and Languages
+  #### ⭐  Statistics and Languages
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&theme=tokyonight" />
