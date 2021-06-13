@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Social Link:</h3>
-<p style="inline-block>
+<p style="display:inline-block;">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/faysal-khan-47aa8710a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="20" width="20" /></a>
  
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/faysal-khan-47aa8710a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="20" width="20" /></a>
