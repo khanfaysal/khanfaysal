@@ -28,7 +28,7 @@
 
 
 
-#### 💻 Stack I Work With this technology 
+#### 💻 Stack I Work with this technology 
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
