@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view)
 
-- ⚡ Fun fact **I love to learn new things more & more...**
+- ⚡ Fun fact **I love to learn new things more & more...** <br/>
 
 
 <h3>Social Link</h3>
@@ -23,7 +23,7 @@
 
 <a href="https://join.skype.com/invite/wPnSSrRpttZH" target="blank">
  <img align="center" src="https://i.ibb.co/PTFct1L/skype.png" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
-</a>
+</a> <br/>
 
 
 
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
-</p>
+</p><br/>
 
  
   #### ⭐  Statistics and Languages
