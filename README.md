@@ -1,6 +1,9 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://github.com/khanfaysal) -->
 <h1 align="center">Hi 👋, I'm Faysal Khan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3><br>
+<h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p>![social-media](https://user-images.githubusercontent.com/42974169/121821385-59f2cd80-ccba-11eb-982b-db9ced764b62.png)
+![social-media](https://user-images.githubusercontent.com/42974169/121821399-6f67f780-ccba-11eb-934c-0f1a05a9bda4.png)
+
 
 
 
@@ -18,7 +21,7 @@
 
 - ⚡ Fun fact **I love to learn new things more & more...**
 
-<h3 align="left">Connect with me:</h3>
+-💬 <h3 align="left">Connect with me (Social Link):</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/faysal-khan-47aa8710a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="30" width="40" /></a>
 </p>
@@ -39,14 +42,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Faysal Khan Alam</h1>
-<h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p>
 
-- 🔭 I’m currently working on [tailwind ](https://tailwindcss.com/)
 
-- 🌱 I’m currently learning **Advanced React core**
 
-- 📫 How to reach me **mdfaysalkhancse@gmail.com**
 
 
 #### 💻 Stack I Work With this technology 
@@ -80,9 +78,6 @@
 
 
 
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=devded&theme=flat&row=1" alt="devded" />
-</p>
     
 
 
