@@ -23,7 +23,7 @@
 
 <a href="https://join.skype.com/invite/wPnSSrRpttZH" target="blank">
  <img align="center" src="https://i.ibb.co/PTFct1L/skype.png" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
-</a> <br/>
+</a> <br/><br />
 
 
 
