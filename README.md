@@ -6,7 +6,7 @@
 
 <!-- - 🌱 I’m currently learning **React DOM, CSS frameworks ,node** -->
 
-- 👨‍💻 All of my projects are available at [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/)
+- 👨‍💻 My portfolio website link [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/)
 
 <!-- - 📝 I regularly write articles on [https://mdfaysalkhancse.medium.com/](https://mdfaysalkhancse.medium.com/) -->
 
