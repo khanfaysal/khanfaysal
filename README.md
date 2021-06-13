@@ -79,22 +79,16 @@
 </p>
 
  
-  ⭐  Statistics and Languages
-
- <!-- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=devded&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devded&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
- </p> -->
+  ### ⭐  Statistics and Languages
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&theme=tokyonight" />
 </p>
 
-<!--
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Firebase</title><path d="M3.89 15.672L6.255.461A.542.542 0 017.27.288l2.543 4.771zm16.794 3.692l-2.25-14a.54.54 0 00-.919-.295L3.316 19.365l7.856 4.427a1.621 1.621 0 001.588 0zM14.3 7.147l-1.82-3.482a.542.542 0 00-.96 0L3.53 17.984z"/></svg>
-For ICON With Text
-    https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white
+
+
+  
     
 For Github Stats
     https://github-readme-stats.vercel.app/api?username=HereUsername&show_icons=true
@@ -102,22 +96,18 @@ For Github Stats
 For Profile View
     https://komarev.com/ghpvc/?username=HereUsername
 
-For Auto Generate
+For
     https://rahuldkjain.github.io/gh-profile-readme-generator/
 
-For County Flag ICOn
-    https://www.flaticon.com/
 
 For ICON Idea
     https://simpleicons.org/
 
--->
+ ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) 
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) -->
 
-<!--
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=devded&theme=flat&row=1" alt="devded" />
 </p>
 
--->
+
