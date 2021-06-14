@@ -4,11 +4,11 @@
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
 
 
-- 👨‍💻 My portfolio website link [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/)
+- 👨‍💻 My portfolio link [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/)
 
-- 📫 How to reach me **mdfaysalkhancse@gmail.com**
+- 📫 G-mail **mdfaysalkhancse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view)
+- 📄 Resume [https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view)
 
 - ⚡ Fun fact **I love to learn new things more & more...** <br/>
 
