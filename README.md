@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://github.com/khanfaysal) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p> -->
 <h1 align="center">Hi 👋, I'm Faysal Khan</h1>
 <h3 align="center">A passionate developer from Bangladesh </h3>
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
