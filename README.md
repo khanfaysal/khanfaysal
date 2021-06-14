@@ -63,7 +63,7 @@
     
 <!--  ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg)  -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfaysal&theme=blue-green" /></p><br> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&" alt="khanfaysal" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&" alt="khanfaysal" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&locale=en" alt="khanfaysal" /></p> -->
 <!-- - 💬 Ask me about **React, bootstrap, material UI,** -->
 <!-- - 📝 I regularly write articles on [https://mdfaysalkhancse.medium.com/](https://mdfaysalkhancse.medium.com/) -->
