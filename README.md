@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://github.com/khanfaysal) -->
 <h1 align="center">Hi 👋, I'm Faysal Khan</h1>
-<h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20" height="10"/> </h3>
+<h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="50" height="10"/> </h3>
 
 
 - 👨‍💻 My portfolio website link [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/)
