@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://github.com/khanfaysal) -->
 <h1 align="center">Hi 👋, I'm Faysal Khan</h1>
-<h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
+<h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20" height="10"/> </h3>
 
 
 - 👨‍💻 My portfolio website link [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/)
@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I love to learn new things more & more...** <br/>
 
 
-<h3>Connected with me</h3>
+<h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/faysal-khan-47aa8710a/" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"    alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
 </a>
