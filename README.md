@@ -1,4 +1,5 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://github.com/khanfaysal) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p>
 <h1 align="center">Hi 👋, I'm Faysal Khan</h1>
 <h3 align="center">A passionate developer from Bangladesh </h3>
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
@@ -64,7 +65,7 @@
 <!--  ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg)  -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfaysal&theme=blue-green" /></p><br> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&" alt="khanfaysal" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&locale=en" alt="khanfaysal" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&locale=en" alt="khanfaysal" /></p> -->
 <!-- - 💬 Ask me about **React, bootstrap, material UI,** -->
 <!-- - 📝 I regularly write articles on [https://mdfaysalkhancse.medium.com/](https://mdfaysalkhancse.medium.com/) -->
 <!-- - 🌱 I’m currently learning **React DOM, CSS frameworks ,node** -->
