@@ -8,9 +8,7 @@
 
 - 🌐  You can see some of my projects on [my portfolio](https://fervent-haibt-9fc6ee.netlify.app/).
 
-<!-- - 🌐  My portfolio link [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/) -->
-
-- 📫 G-mail **mdfaysalkhancse@gmail.com**
+- 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
 - 
 - 📄 Also check my  [Resume](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view).
 
@@ -21,11 +19,6 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-khan-47aa8710a/)
 [![Talk with Me](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://join.skype.com/invite/wPnSSrRpttZH)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfaysal.khan.71/)
-
-
-
-
-
 
 
 #### 💻 Stack I Work with this technology 
