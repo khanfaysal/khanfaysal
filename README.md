@@ -1,8 +1,14 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://github.com/khanfaysal) -->
+<!-- <a href="#"><img width="100%" src="https://sohelislamimran.netlify.app/static/media/Developer.e0ed7fbf.svg" height="400px"/></a -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p> -->
 <h1 align="center">Hi 👋, I'm Faysal Khan</h1>
 <h3 align="center">A passionate developer from Bangladesh </h3>
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sohelislamimran/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/SohelIslamImran/)
+
+- 🌐  You can see some of my projects on [my portfolio](https://sohelislamimran.netlify.app).
 
 
 - 👨‍💻 My portfolio link [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/)
