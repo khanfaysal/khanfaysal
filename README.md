@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I love to learn new things more & more...** <br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-khan-47aa8710a/)
-[![Talk with Me](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://join.skype.com/invite/wPnSSrRpttZH)
+[![Talk with Me](https://join.skype.com/invite/wPnSSrRpttZH)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfaysal.khan.71/)
 
 
