@@ -18,19 +18,11 @@
 - ⚡ Fun fact **I love to learn new things more & more...** <br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-khan-47aa8710a/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](<a href="https://www.facebook.com/mdfaysal.khan.71/" target="blank">)
-<h3>Connect with me</h3>
-<a href="https://www.linkedin.com/in/faysal-khan-47aa8710a/" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"    alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
-</a>
+[![Talk with Me](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://join.skype.com/invite/wPnSSrRpttZH)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfaysal.khan.71/)
 
-<a href="https://www.facebook.com/mdfaysal.khan.71/" target="blank">
- <img align="center" src="https://i.ibb.co/8Dzh6q9/facebook.png" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
-</a>
 
-<a href="https://join.skype.com/invite/wPnSSrRpttZH" target="blank">
- <img align="center" src="https://i.ibb.co/PTFct1L/skype.png" alt="https://www.linkedin.com/in/faysal-khan-47aa8710a/" height="17" width="17" />
-</a> <br/><br />
+
 
 
 
