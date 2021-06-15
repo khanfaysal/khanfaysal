@@ -2,7 +2,7 @@
 <!-- <a href="#"><img width="100%" src="https://sohelislamimran.netlify.app/static/media/Developer.e0ed7fbf.svg" height="400px"/></a -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p> -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Faysal Khan</h1>
-<h3 align="center">MERN stack Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
 
 
@@ -13,7 +13,6 @@
 - ⚡ Fun fact **I love to learn new things more & more...** <br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-khan-47aa8710a/)
-<!-- [![Talk with Me](https://join.skype.com/invite/wPnSSrRpttZH) -->
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfaysal.khan.71/)
 
 
