@@ -5,7 +5,6 @@
 <h3 align="center">MERN Stack Developer</h3><br/>
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
 
-
 - 🌐  You can see some of my projects on [my portfolio](https://fervent-haibt-9fc6ee.netlify.app/).
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
 - 📄 Also check my  [Resume](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view).
