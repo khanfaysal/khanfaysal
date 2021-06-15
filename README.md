@@ -6,14 +6,15 @@
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
 
 
-- 🌐  You can see some of my projects on [my portfolio](https://sohelislamimran.netlify.app).
+- 🌐  You can see some of my projects on [my portfolio](https://fervent-haibt-9fc6ee.netlify.app/).
 
-
-- 👨‍💻 My portfolio link [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/)
+<!-- - 🌐  My portfolio link [https://fervent-haibt-9fc6ee.netlify.app/](https://fervent-haibt-9fc6ee.netlify.app/) -->
 
 - 📫 G-mail **mdfaysalkhancse@gmail.com**
+- 
+- 📄 Also check my  [Resume](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view).
 
-- 📄 Resume [https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view)
+<!-- - 📄 Resume [https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view) -->
 
 - ⚡ Fun fact **I love to learn new things more & more...** <br/>
 
