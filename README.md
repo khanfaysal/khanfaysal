@@ -5,6 +5,10 @@
 <h3 align="center">MERN Stack Developer</h3><br/>
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
 
+### 📖 About me
+
+I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3 and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer. 
+
 - 🌐  You can see some of my projects on [my portfolio](https://fervent-haibt-9fc6ee.netlify.app/).
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
 - 📄 Also check my  [Resume](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view).
