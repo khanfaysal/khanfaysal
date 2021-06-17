@@ -7,7 +7,7 @@
 
 ### 📖 About me
 
-I'm a  MERN stack WEB developer. I am working with React, Node.js and MongoDB, HTML5, CSS3, and JavaScript (ES6). My strengths are self-motivated, passion, dedicated. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become an ideal code fighter. I want to help my world with my code power and to be a valuable team player. <br/>
+I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript (ES6). I also comfortable with Node.js and MongoDB. My strengths are self-motivated, passion, dedicated. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become an ideal code fighter. I want to help my world with my code power and to be a valuable team player. <br/>
 
 - 🌐  You can see some of my projects on [my portfolio](https://fervent-haibt-9fc6ee.netlify.app/).
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
