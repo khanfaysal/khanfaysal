@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://i.ibb.co/YdQ22Zn/github-banner.png...)](https://github.com/khanfaysal) -->
 <a href="#"><img width="100%" src="https://i.ibb.co/D8qc4rv/git-banner.png"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p> -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Faysal Khan</h1>
 <h3 align="center"> Front End Developer</h3><br/>
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
