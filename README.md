@@ -7,12 +7,12 @@
 
 ### 📖 About me
 
-I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript (ES6). I also comfortable with Node.js and MongoDB. My strengths are self-motivated, passion, dedicated. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become an ideal code fighter. I want to help my world with my code power and to be a valuable team player. <br/>
+I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript (ES6). I also comfortable with Node.js and MongoDB. My strengths are self-motivated, passion, dedicated towards my work.<br/>
 
 - 🌐  You can see some of my projects on [my portfolio](https://fervent-haibt-9fc6ee.netlify.app/).
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
 - 📄 Also check my  [Resume](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view).
-- ⚡ Fun fact **I love to learn new things more & more...** <br/><br/>
+- ⚡ currently work on TypeScript and Next Js** <br/><br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-khan-47aa8710a/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfaysal.khan.71/)
