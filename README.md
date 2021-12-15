@@ -47,7 +47,7 @@ I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&theme=tokyonight" />&nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&theme=tokyonight" />
- <a href="https://app.daily.dev/Faysal_71"><img src="https://api.daily.dev/devcards/edb27fa9cca24d4689e05fc0efa901d4.png?r=ddi" width="400" alt="FAYSAL KHAN's Dev Card"/></a>
+ <a href="https://app.daily.dev/Faysal_71"><img src="https://api.daily.dev/devcards/edb27fa9cca24d4689e05fc0efa901d4.png?r=ddi" width="200" alt="FAYSAL KHAN's Dev Card"/></a>
 </p>
 
 
