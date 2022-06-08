@@ -11,7 +11,7 @@ I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript
 
 - 🌐  You can see some of my projects on [my portfolio](https://fervent-haibt-9fc6ee.netlify.app/).
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
-- 📄 Also check my  [Resume](https://drive.google.com/file/d/14zBDYwEl1gD_rV0fzwm2ChCogMOv_9uw/view).
+- 📄 Also check my  [Resume](https://drive.google.com/file/d/1lsmEKfrQib35lNl-dRHRpBOripYuIOCY/view?usp=sharing).
 - ⚡ currently work on TypeScript and Next Js** <br/><br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-khan-47aa8710a/)
