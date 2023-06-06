@@ -11,12 +11,12 @@ I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript
 
 - 🌐  You can see some of my projects on [my portfolio](https://fervent-haibt-9fc6ee.netlify.app/).
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
-- 📄 Also check my  [Resume](https://drive.google.com/file/d/1lsmEKfrQib35lNl-dRHRpBOripYuIOCY/view?usp=sharing).
-- ⚡ currently work on TypeScript and Next Js** <br/><br/>
+- 📄 Also check my  [Resume](https://drive.google.com/file/d/1TYoVlHJyYofoJk_ZIE9ULfhxRVDf_p-q/view?fbclid=IwAR25qosALCfSc6wkucjfWs9LqgxkrysGfJ3I64EJa2IYrIkhcQNjP7GjLkA).
+- ⚡ currently work on TypeScript,MongoDB and Express js ** <br/><br/>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-khan-47aa8710a/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysalkhandev/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfaysal.khan.71/)
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://mdfaysalkhancse.medium.com/)
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://devfaysalkhan.medium.com/
 <!-- [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://twitter.com/mdfaysalkhancs1) -->
 
 
@@ -49,14 +49,3 @@ I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&theme=tokyonight" />
  
 </p>
-
-
-
-    
-<!--  ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg)  -->
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfaysal&theme=blue-green" /></p><br> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&" alt="khanfaysal" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&locale=en" alt="khanfaysal" /></p> -->
-<!-- - 💬 Ask me about **React, bootstrap, material UI,** -->
-<!-- - 📝 I regularly write articles on [https://mdfaysalkhancse.medium.com/](https://mdfaysalkhancse.medium.com/) -->
-<!-- - 🌱 I’m currently learning **React DOM, CSS frameworks ,node** -->
