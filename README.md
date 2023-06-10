@@ -11,7 +11,7 @@ I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript
 
 - 🌐  You can see some of my projects on [my portfolio](https://fervent-haibt-9fc6ee.netlify.app/).
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
-- 📄 Also check my  [Resume](https://drive.google.com/file/d/1TYoVlHJyYofoJk_ZIE9ULfhxRVDf_p-q/view?fbclid=IwAR25qosALCfSc6wkucjfWs9LqgxkrysGfJ3I64EJa2IYrIkhcQNjP7GjLkA).
+- 📄 Also check my  [Resume](https://drive.google.com/file/d/1qMmxVT4UE3sWlvqcrvOYCZ6bdeKSHPJr/view?usp=sharing).
 - ⚡ currently work on TypeScript,MongoDB and Express js ** <br/><br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysalkhandev/)
