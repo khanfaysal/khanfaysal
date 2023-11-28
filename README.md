@@ -16,7 +16,8 @@ I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysalkhandev/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfaysal.khan.71/)
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://devfaysalkhan.medium.com/
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://devfaysalkhan.medium.com/)
+[![Codepen Follow](https://img.shields.io/badge/%20-Codepen-black?color=14171A&labelColor=1976d2&logo=codepen&logoColor=ffffff)](https://codepen.io/khanfaysal)/
 <!-- [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://twitter.com/mdfaysalkhancs1) -->
 
 
