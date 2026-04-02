@@ -9,7 +9,7 @@
 
 I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript (ES6). I also comfortable with Node.js and MongoDB. My strengths are self-motivated, passion, dedicated towards my work.<br/>
 
-- 🌐  You can see some of my projects on [my portfolio]((https://faysalkhan.netlify.app/)).
+- 🌐 You can see some of my projects on [my portfolio](https://faysalkhan.netlify.app/)
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
 - 📄 Also check my  [Resume](https://drive.google.com/file/d/11rFkyV5FFV2pTSj6Ckkl-G6-vpYpQCfA/view?usp=sharing).
 - ⚡ currently work on TypeScript, MySQL and Nest js ** <br/><br/>
