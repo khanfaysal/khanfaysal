@@ -11,7 +11,7 @@ I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript
 
 - 🌐 You can see some of my projects on [my portfolio](https://faysalkhan.netlify.app/)
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
-- 📄 Also check my  [Resume](https://drive.google.com/file/d/11rFkyV5FFV2pTSj6Ckkl-G6-vpYpQCfA/view?usp=sharing).
+- 📄 Also check my  [Resume](https://drive.google.com/file/d/1mZhkWqWZp_5T6WBMGyRkuDzavi3XnzjA/view?usp=sharing).
 - ⚡ currently work on TypeScript, MySQL and Nest js ** <br/><br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysalkhandev/)
