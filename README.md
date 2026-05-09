@@ -14,10 +14,7 @@ Front-End Developer skilled in HTML5, CSS3, JavaScript (ES6), React.js, and Lara
 - 📄 Also check my  [Resume](https://drive.google.com/file/d/1mZhkWqWZp_5T6WBMGyRkuDzavi3XnzjA/view?usp=sharing).
 - ⚡ currently work on TypeScript, MySQL and explore AI ** <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faysal%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysalkhandev/)
-
-<!--[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdfaysal.khan.71/)-->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faysal%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysalkhandev/) &nbsp;
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://devfaysalkhan.medium.com/)
 <!--[![Codepen Follow](https://img.shields.io/badge/%20-Codepen-black?color=14171A&labelColor=1976d2&logo=codepen&logoColor=ffffff)](https://codepen.io/khanfaysal) -->
 <!-- [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://twitter.com/mdfaysalkhancs1) -->
