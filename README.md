@@ -7,17 +7,17 @@
 
 ### 📖 About me
 
-I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript (ES6). I also comfortable with Node.js and MongoDB. My strengths are self-motivated, passion, dedicated towards my work.<br/>
+Front-End Developer skilled in HTML5, CSS3, JavaScript (ES6), React.js, and Laravel. Familiar with Express.js, MongoDB, MySQL, and passionate about AI. Self-motivated, dedicated, and passionate about building modern web applications.<br/>
 
 - 🌐 You can see some of my projects on [my portfolio](https://faysalkhan.netlify.app/)
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
 - 📄 Also check my  [Resume](https://drive.google.com/file/d/1mZhkWqWZp_5T6WBMGyRkuDzavi3XnzjA/view?usp=sharing).
-- ⚡ currently work on TypeScript, MySQL and Nest js ** <br/><br/>
+- ⚡ currently work on TypeScript, MySQL and explore AI ** <br/><br/>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysalkhandev/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfaysal.khan.71/)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysalkhandev/)
+<!--[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfaysal.khan.71/) -->
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://devfaysalkhan.medium.com/)
-[![Codepen Follow](https://img.shields.io/badge/%20-Codepen-black?color=14171A&labelColor=1976d2&logo=codepen&logoColor=ffffff)](https://codepen.io/khanfaysal)
+<!--[![Codepen Follow](https://img.shields.io/badge/%20-Codepen-black?color=14171A&labelColor=1976d2&logo=codepen&logoColor=ffffff)](https://codepen.io/khanfaysal) -->
 <!-- [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://twitter.com/mdfaysalkhancs1) -->
 
 
@@ -46,7 +46,8 @@ I'm a  Front End developer. I am working with React, HTML5, CSS3, and JavaScript
   #### ⭐  Statistics and Languages
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&theme=tokyonight" />&nbsp;
+  <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&theme=tokyonight" />&nbsp; -->
+ <img src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&theme=tokyonight" />&nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&theme=tokyonight" />
  
 </p>
