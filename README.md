@@ -42,7 +42,7 @@ Front-End Developer skilled in HTML5, CSS3, JavaScript (ES6), React.js, and Lara
 </p><br/>
 
  
-  #### ⭐  Statistics and Languages
+  #### ⭐  Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfaysal&theme=tokyonight" />
