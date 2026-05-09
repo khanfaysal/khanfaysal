@@ -44,7 +44,10 @@ Front-End Developer skilled in HTML5, CSS3, JavaScript (ES6), React.js, and Lara
  
   #### ⭐  Statistics and Languages
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="47%" src="https://streak-stats.demolab.com?user=khanfaysal&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+| GitHub Stats | GitHub Streak |
+|:---:|:---:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=khanfaysal&show_icons=true&theme=tokyonight&hide_border=true) | ![Streak](https://streak-stats.demolab.com?user=khanfaysal&theme=tokyonight&hide_border=true) |
+
+</div>
