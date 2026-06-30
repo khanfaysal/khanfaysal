@@ -2,12 +2,12 @@
 <a href="#"><img width="100%" src="https://i.ibb.co/D8qc4rv/git-banner.png"/></a>
 <!-- <p align="left"> 👋 <img src="https://komarev.com/ghpvc/?username=khanfaysal" alt="khanfaysal" /> </p> -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Faysal Khan</h1>
-<h3 align="center"> Web Developer</h3><br/>
+<h3 align="center"> Frontend Engineer</h3><br/>
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
 
 ### 📖 About me
 
-Front-End Developer skilled in HTML5, CSS3, JavaScript (ES6), React.js, and Laravel. Familiar with Express.js, MongoDB, MySQL, and passionate about AI. Self-motivated, dedicated, and passionate about building modern web applications.<br/>
+Frontend Engineer skilled in HTML5, CSS3, JavaScript (ES6), React.js, and Laravel. Familiar with Express.js, MongoDB, MySQL, and passionate about AI. Self-motivated, dedicated, and passionate about building modern web applications.<br/>
 
 - 🌐 You can see some of my projects on [my portfolio](https://faysalkhan.netlify.app/)
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
