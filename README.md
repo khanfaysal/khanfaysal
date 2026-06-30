@@ -14,11 +14,6 @@ Frontend Engineer with 4+ years of experience focused on building fast, scalable
 📄 [Resume](https://drive.google.com/file/d/1mZhkWqWZp_5T6WBMGyRkuDzavi3XnzjA/view?usp=sharing)<br/>
 ⚡ Currently building projects with Laravel, MySQL, and AI-powered applications. <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faysal%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysalkhandev/) &nbsp;
-[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://devfaysalkhan.medium.com/)
-<!--[![Codepen Follow](https://img.shields.io/badge/%20-Codepen-black?color=14171A&labelColor=1976d2&logo=codepen&logoColor=ffffff)](https://codepen.io/khanfaysal) -->
-<!-- [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://twitter.com/mdfaysalkhancs1) -->
-
 
 #### 💻 Tech Stack
 
@@ -40,6 +35,11 @@ Frontend Engineer with 4+ years of experience focused on building fast, scalable
 <img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 </p><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faysal%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysalkhandev/) &nbsp;
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://devfaysalkhan.medium.com/)<br/>
+<!--[![Codepen Follow](https://img.shields.io/badge/%20-Codepen-black?color=14171A&labelColor=1976d2&logo=codepen&logoColor=ffffff)](https://codepen.io/khanfaysal) -->
+<!-- [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://twitter.com/mdfaysalkhancs1) -->
 
  
   #### ⭐  Statistics
