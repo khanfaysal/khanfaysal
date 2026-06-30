@@ -9,7 +9,7 @@
 
 Frontend Engineer skilled in HTML5, CSS3, JavaScript (ES6), React.js, and Laravel. Familiar with Express.js, MongoDB, MySQL, and passionate about AI. Self-motivated, dedicated, and passionate about building modern web applications.<br/>
 
-- 🌐 You can see some of my projects on [my portfolio](https://faysalkhan.netlify.app/)
+- 🌐 You can see [my portfolio](https://faysalkhan.netlify.app/)
 - 📫 You can write on my G-mail **mdfaysalkhancse@gmail.com**
 - 📄 Also check my  [Resume](https://drive.google.com/file/d/1mZhkWqWZp_5T6WBMGyRkuDzavi3XnzjA/view?usp=sharing).
 - ⚡ currently work on TypeScript, MySQL and explore AI ** <br/><br/>
