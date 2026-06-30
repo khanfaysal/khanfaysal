@@ -35,7 +35,6 @@ Frontend Engineer with 4+ years of experience focused on building fast, scalable
 <img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 </p><br/>
-
 #### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faysal%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysalkhandev/) &nbsp;
