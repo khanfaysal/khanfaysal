@@ -7,7 +7,7 @@
 
 #### 📖 About Me
 
-Frontend Engineer with 4+ years of experience focused on building fast, scalable, and intuitive web applications. Experienced with HTML, CSS, JavaScript (ES6+), React.js, Next.js, TypeScript, and Laravel. Familiar with Express.js, MongoDB, and MySQL. Currently exploring AI and Agentic Intelligence while continuously improving my software engineering skills.<br/>
+Frontend Engineer with 4 years of experience focused on building fast, scalable, and intuitive web applications. Experienced with HTML, CSS, JavaScript (ES6+), React.js, Next.js, TypeScript, and Laravel. Familiar with Express.js, MongoDB, and MySQL. Currently exploring AI and Agentic Intelligence while continuously improving my software engineering skills.<br/>
 
 🌐 [Portfolio](https://faysalkhan.netlify.app/)<br/>
 📫 **mdfaysalkhancse@gmail.com**<br/>
