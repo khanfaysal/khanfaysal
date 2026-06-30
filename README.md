@@ -5,16 +5,14 @@
 <!-- <h3 align="center"> Frontend Engineer</h3><br/> -->
 <!-- <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="20"/> -->
 
-### 📖 About me
-
-💻 About Me
+#### 📖 About Me
 
 Frontend Engineer with 4+ years of experience focused on building fast, scalable, and intuitive web applications. Experienced with HTML, CSS, JavaScript (ES6+), React.js, Next.js, TypeScript, and Laravel. Familiar with Express.js, MongoDB, and MySQL. Currently exploring AI and Agentic Intelligence while continuously improving my software engineering skills.<br/>
 
 - 🌐 [Portfolio](https://faysalkhan.netlify.app/)
-- 📫 Email: **mdfaysalkhancse@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1mZhkWqWZp_5T6WBMGyRkuDzavi3XnzjA/view?usp=sharing).
-- ⚡ Currently building projects with Laravel, MySQL, and AI-powered applications. ** <br/><br/>
+- 📫 **mdfaysalkhancse@gmail.com**
+- 📄 [Resume](https://drive.google.com/file/d/1mZhkWqWZp_5T6WBMGyRkuDzavi3XnzjA/view?usp=sharing)
+- ⚡ Currently building projects with Laravel, MySQL, and AI-powered applications. <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faysal%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysalkhandev/) &nbsp;
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://devfaysalkhan.medium.com/)
@@ -22,7 +20,7 @@ Frontend Engineer with 4+ years of experience focused on building fast, scalable
 <!-- [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://twitter.com/mdfaysalkhancs1) -->
 
 
-#### 💻 Stack I Work with this technology 
+#### 💻 Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
