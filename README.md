@@ -12,8 +12,7 @@ Software developer with over 4 years of experience focused on building fast, sca
 🌐 [Portfolio](https://faysalkhan.netlify.app/)<br/>
 📫 **mdfaysalkhancse@gmail.com**<br/>
 📄 [Resume](https://drive.google.com/file/d/1mZhkWqWZp_5T6WBMGyRkuDzavi3XnzjA/view?usp=sharing)<br/>
-⚡ Currently building projects with Laravel, MySQL, and AI-powered applications. <br/><br/>
-
+⚡ Currently building projects with NestJS, PostgreSQL, and AI-powered applications. <br/><br/>
 
 #### 🖥️ Tech Stack
 
