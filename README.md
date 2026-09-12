@@ -11,7 +11,7 @@ Software developer with over 4 years of experience focused on building fast, sca
 
 🌐 [Portfolio](https://faysalkhan.netlify.app/)<br/>
 📫 **mdfaysalkhancse@gmail.com**<br/>
-📄 [Resume](https://drive.google.com/file/d/1KN_KVgMaY0rSdf05V4BGWp6C61wngolb/view?usp=sharing)<br/>
+📄 [Resume](https://drive.google.com/file/d/1K4Gu1GwF2J3egMKfacdysCgXzbEkBPLe/view?usp=sharing)<br/>
 ⚡ Currently building projects with NestJS, PostgreSQL, and AI-powered applications. <br/><br/>
 
 #### 🖥️ Tech Stack
